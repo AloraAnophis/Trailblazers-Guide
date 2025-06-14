@@ -3,9 +3,17 @@ A guide for Trailblazers
 
 Harmless Architect: Basics of Claiming a system
 
+  From Contact to Claim
+
+
 Stellar Architect: How and Why of Primary Ports
 
+  Primary Porots 101
+
 System Architect: Beyond the Primary Port
+
+  Basics of System Architecture
+
 
 Cluster Architect: BGS, System Points, Architect Payments, And You
 
