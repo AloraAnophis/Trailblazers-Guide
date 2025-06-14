@@ -1,1 +1,23 @@
 
+You will bring a starting set of four Minor Factions with you when you complete your Primary Port. They are selected by the following means:
+
+
+Faction
+Faction Determination
+Starting Influence
+Primary Faction
+Faction that controls the station where the Colony Contact is located
+60%
+Secondary Faction
+Faction with most influence in system (not counting Contact station Faction)
+20%
+Tertiary Faction/Squadron-Supported Faction
+Faction with 2nd-most influence in system (not counting Contact station Faction)/Faction Squadron supports
+15%
+Anarchy Faction from/near System
+Anarchy Faction with most Influence in start system. If None, Anarchy Faction from nearby systems
+5%
+
+Table 1.3: Faction Selection
+
+More information on Minor Factions will be presented when this guide covers BGS in the Cluster Architect: BGS, Architect Payments, and You chapter. For now, knowing they exist and how to choose them is enough.
