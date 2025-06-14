@@ -13,6 +13,9 @@ Elite Architect: The Cruel Frailty of Commodity Supply Painting
 
 
 Glossary
+
 Appendices
+
   Appendix A: Charts/Table Quick-Reference
+  
   Appendix B: Currently Known and/or suspected system-related stats (raw numbers)
