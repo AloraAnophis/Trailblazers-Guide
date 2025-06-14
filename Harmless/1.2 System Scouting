@@ -1,11 +1,14 @@
-It is important, except in rare and specific circumstances, to scout your systems ahead of time. You will of course first need to find the system you want to colonize, perform a Discovery Scan (DSS), and then, optionally, complete a Full Spectrum Scan (FSS) in a ship that contains a Full Spectrum Scanner.
+It is important, except in rare and specific circumstances, to scout your systems ahead of time. You will of course first need to find the system you want to colonize, perform a Discovery Scan, and then, optionally, complete a Full Spectrum Scan (FSS) in a ship that contains a Full Spectrum Scanner. Detailed Survey Scan in a ship with a Detailed Survey Scanner.
 
 You can find systems to colonize by either picking one at random, a system that has meaning to you personally, use the galactic map to find something you want, or use a third-party tool or website like Spansh or Inara.
 
-To perform a system scan, you must first “Honk” the Discovery Scanner, press the button when prompted, and search the DSS interface to find all the bodies in the system until you have completed the full DSS system scan.
+To perform a system scan, you must first “Honk”[^1] the Discovery Scanner, press the button [^2] when prompted, and search the DSS interface to find all the bodies in the system until you have completed the full DSS system scan.
 
 To perform an FSS Scan, equip a Full Spectrum Scanner to your ship, approach  a planet, and activate the scanner. Simply fire the probes at the planet in the FSS interface, and get to at least 90% to complete that planet’s scan. Rinse and repeat as needed/desired.
 
 Why/When should you FSS Scan? Generally when there’s organic or geological signals detected, but it’s worth noting that finishing an FSS scan of a body will also permanently reveal the Human signals present on the body, if you have any interest in Space Legs content.
 
 Note: The System Map can at times “lose” planets (where they should be will be just blackness for you) if you scan the system and release the Colony Beacon, and then are killed before selling your Cartographic data. Remain calm, as this is normal. Just return to the system and re-perform a DSS to “reclaim” your scan data.
+
+[^1]: "Honk" is an affectionate community reference to the sound the Discovery Scanner makes when it completes its initial scan
+[^2]: Default Key is , unless you remapped it.
