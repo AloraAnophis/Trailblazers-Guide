@@ -1,3 +1,5 @@
+Note: Raw text is available on this github. Formatting, Tables, and more are done in a separate program.
+
 # Trailblazers-Guide
 A guide for Trailblazers
 
