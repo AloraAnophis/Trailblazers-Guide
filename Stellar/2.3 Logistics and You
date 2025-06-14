@@ -1,1 +1,49 @@
 
+Now you know where you want to build, what you want to build, it’s time to discuss HOW to build it. We’ve already covered where to find things (Refinery, Industrial, Agriculture, and High Tech economies (and maybe Surface Extraciton)).  There are at least three major ways of acquiring the Commodities you need from their source to your depot, and 3 major kinds of ship you will need.
+
+Types of ships you may need:
+
+Medium Pad Hauler
+The Type 8 is the king of M Pad Hauling, capable of hauling 400 tons shieldless with Assists.
+Large Pad Hauler
+The Type 9 is available for credits, and is capable of hauling 784 tons shieldless with Assists
+Imperial Cutter: The Imperial Cutter is also capable of hauling 792 tons shieldless, but is more expensive than the Type 9 and requires an Imperial reputation of Duke or higher.
+Panther Cutter: the Panther Cutter is not yet released, and no details of its slot layout are available at time of writing [Trailblazers 3.3]
+Freight Carrier
+A Fleet Carrier is capable of jumping up to 500ly at a time, and carrying up to 25,000 tons of cargo
+This method can be and usually is slower than Local Source/nearby Imports of materials but this can vary depending on a number of variables including but not limited to distances from the star in light seconds, pad sizes, and the number of jumps between the construction depot and the commodity source station.
+
+
+
+
+
+
+
+
+Locally Sourced Materials: 
+
+This guide defines Locally Sourced Materials as available within 1 jump (fully laden) by any/all ships you are using or especially within the local system and no further out than 4k+ light seconds. This is the best and fastest way of delivering resources as long as the construction depot and source station are not too far away in terms of light seconds.
+
+It is generally NOT recommended by this guide to create one giant system with all the economies in various stations in it. Attempting to do so will result in several economies (though it always seems to be the Industrial economy) “eating” several types of Commodities. Some, like HE Suits, are only used for surface constructions, and some, like Insulated Membranes, are only used for space construtions. Other commodities might be desired for missions, trade, or other purposes.
+
+In general, if commodities are the goal, this guide in particular recommends a small cluster of star systems with pure or relatively symbiotic economies (Refinery/Agriculture) that do not “eat” commodities of the other economy that you are going to want. For Construction Supply Depot purposes, this generally means a Refinery system, an Industrial system, a High Tech system, and possibly an Agricultural system.
+
+Commodity wrangling will be covered more extensively in the final section of this guide “Elite Architect: The Cruel Frailty of Commodity Supply Painting”
+
+
+Local Body Sourced Materials
+
+Local Body Materials are hands down the fastest supply in the game. Whether you are hopping from one station to another in the same orbit, dropping from orbit to the body and then back up, you can transport a ludicrous amount of materials very quickly, with distances measured in the single Mms and total time in FSD measured in mere seconds. This type of relationship is extremely rare, and does not generally last long when it does appear.
+
+
+Locally Imported Materials
+
+Locally Imported Materials is defined by this guide as commodities that come from a source that exists within 2+ jumps (fully-laden) and a short (less than 4k+ light seconds) distance from the primary star. It is highly recommended to use Imported Materials to create Local Sources of Commodities if at all feasible, even if only in a lonely outpost [and supporting infrastructure Trailblazers 3.3] trapped behind an M Pad (Refinery Commodities should be given a Large pad as soon as possible, however).
+
+Freight Carrier Imported Materials
+
+As noted earlier, Fleet Carriers and the announced Squadron Carriers can import a tremendous amount of materials and make excellent freighters. They can fill holes of commodities that are simply not available near you (such as Emergency Power Cells) or bring in enough materials to kickstart local commodity markets.
+
+
+
+Which commodity source is for you is largely a matter of taste, Landing Pad capacity, distance in light seconds, and various personal transit times unless you are strictly limited to using Freight Carriers.
