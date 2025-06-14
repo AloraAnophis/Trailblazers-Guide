@@ -1,2 +1,13 @@
 # Trailblazers-Guide
 A guide for Trailblazers
+
+Harmless Architect: Basics of Claiming a system
+Stellar Architect: How and Where to Claim
+System Architect: Beyond the Primary Port
+Cluster Architect: BGS, System Points, Architect Payments, And You
+Elite Architect: The Cruel Frailty of Commodity Supply Painting
+
+Glossary
+Appendices
+  Appendix A: Charts/Table Quick-Reference
+  Appendix B: Currently Known and/or suspected system-related stats (raw numbers)
