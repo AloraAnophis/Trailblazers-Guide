@@ -3,7 +3,7 @@ A guide for Trailblazers
 
 Harmless Architect: Basics of Claiming a system
 
-Stellar Architect: How and Where to Claim
+Stellar Architect: How and Why of Primary Ports
 
 System Architect: Beyond the Primary Port
 
